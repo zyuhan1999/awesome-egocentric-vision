@@ -681,7 +681,15 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 ### Egocentric Video-Language Models & Question Answering
 
 <details>
-<summary>Show papers (46)</summary>
+<summary>Show papers (50)</summary>
+
+- [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276) - Luozheng Qin, Yuhan Zhu, Changhai Zhou, et al. In arXiv 2026. [[code]](https://github.com/Fr0zenCrane/MJev-Spatial)
+
+- [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) - Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang, Yuhan Zhu, et al. In arXiv 2026. [[code]](https://github.com/MCG-NJU/OneStreamer)
+
+- [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) - Xinhao Li, Yuhan Zhu, Xiangyu Zeng, et al. In arXiv 2026. [[code]](https://github.com/MCG-NJU/VideoChat3)
+
+- [JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://arxiv.org/abs/2606.14777) - Dingyu Yao, Junhao Zhou, Chenxu Yang, Chuanyu Qin, et al. In arXiv 2026. [[code]](https://github.com/jd-opensource/JoyAI-VL-Interaction)
 
 - [EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning](https://arxiv.org/abs/2603.09731) - Chengjun Yu, Xuhan Zhu, Chaoqun Du, Pengfei Yu, Wei Zhai, Yang Cao, and Zheng-Jun Zha. In ECCV 2026. [[project page]](https://jackyu6.github.io/EXPLORE-Page/)
 
